@@ -1,5 +1,3 @@
-package main.java;
-
 import javax.websocket.*;
 import javax.websocket.server.ServerEndpoint;
 import java.util.logging.Level;

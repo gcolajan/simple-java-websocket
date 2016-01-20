@@ -1,5 +1,3 @@
-package main.java;
-
 import javax.websocket.DeploymentException;
 import java.io.IOException;
 

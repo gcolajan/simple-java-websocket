@@ -1,5 +1,3 @@
-package main.java;
-
 import org.glassfish.tyrus.server.Server;
 
 import javax.websocket.DeploymentException;
